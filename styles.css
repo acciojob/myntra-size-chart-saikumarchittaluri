@@ -2,3 +2,12 @@
   border: 1px solid black;
   border-collapse: collapse;
 }
+table{
+	width:100%;
+}
+td{
+	text-align:right;
+}
+th{
+	text-align:left;
+}
